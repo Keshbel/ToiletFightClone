@@ -2,6 +2,7 @@
  Test. A clone of the game Toilet Fight for mobile devices, made on Unity in 1 day and 20 hours.
 
 VIDEO - https://disk.yandex.ru/client/disk/Nikita's%20Portfolio/Test%20projects/Toilet%20Fight%20Clone?idApp=client&dialog=slider&idDialog=%2Fdisk%2FNikita%27s%20Portfolio%2FTest%20projects%2FToilet%20Fight%20Clone%2F!ToiletFightGameplay.mp4
+![opera_kkZEQWTaK3](https://github.com/Keshbel/ToiletFightClone/assets/85021488/bffbb295-3995-4c95-a8b2-09e9a7cb4900)
 ![Toilet1](https://github.com/Keshbel/ToiletFightClone/assets/85021488/0f0e696d-7e34-4f3b-b145-dc2b203d900e)
 ![Toilet2](https://github.com/Keshbel/ToiletFightClone/assets/85021488/a50edc2f-fc44-44be-bd02-d324cfcc70a2)
 ![Toilet3](https://github.com/Keshbel/ToiletFightClone/assets/85021488/0c9539dc-07d9-4f9e-9e4c-88feed7a8034)
